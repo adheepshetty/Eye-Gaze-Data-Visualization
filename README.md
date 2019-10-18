@@ -8,7 +8,21 @@ The aim of this assignment is to show participant five's gaze in the form of vis
 </ol>
 <p>The goal of this assignment is to provide interactive visualization support to users who are interested in explorative activities, e.g. finding “interesting” things, examine the dataset by exploring whether a particular feature/trend/pattern is present, etc. </p>
 
-## Rough Plan
+## Instructions to run the project
+
+<ol>
+ 
+<li>Clone/ Download the project which would create a local set of files.
+<li> Open HTML Pages folder.
+<li> Open Run by pressing <i>Windows + R</i> and type in the following command<br>
+<b>chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security</b><br>
+<i>(Make sure you are using Google Chrome as browser. You have to type in the above command because without it would give a websecurity(CORS) issues).</i>
+<li> Drag and drop the <b>graph-visualization.HTML</b> and <b>tree-visualization.HTML</b> on the browser that ran because of the above command.
+<li> Enjoy the Visualization
+ 
+</ol>
+
+
 
 ## Input Files
 p5 - Participant 5
