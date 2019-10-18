@@ -53,7 +53,7 @@ Output files are HTML pages showing the visualization of gaze of participant acc
  
 ## Design
 
-![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/RoughPlan.PNG)
+![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/RoughPlan.png)
 
 ## Technology Used
 
