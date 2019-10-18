@@ -81,14 +81,14 @@ We used python for visualization. Python was chosen since it has modules like pa
 
 The time slide duration was more hence more points on the screen at this point hence we have to increase this duration or frames to visualize the pattern and points more precisely.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=k8maCYvtNA0&feature=youtu.be)
+[![IMAGE ALT TEXT](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Challenges/challenge1img.PNG)](https://www.youtube.com/watch?v=k8maCYvtNA0&feature=youtu.be)
 
 
 ### Challenge #2:
 
 The challenge faced during Eye Gaze dataset visualization was initially with the slides the traces were added but older traces were not removed. Therefore the screen got busier as the time passed.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=_O_Qppccgu0&feature=youtu.be)
+[![IMAGE ALT TEXT](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Challenges/challenge2img.PNG)](https://www.youtube.com/watch?v=_O_Qppccgu0&feature=youtu.be)
 
 
 ### Challenge #3:
