@@ -95,6 +95,8 @@ The challenge faced during Eye Gaze dataset visualization was initially with the
 
 The challenge we faced when we were trying to find the scanpath over the time is that the Screen appeared scribbled.
 
+![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Challenges/challenge3img.png)
+
 
 ## Screenshot of Visualizations
 
