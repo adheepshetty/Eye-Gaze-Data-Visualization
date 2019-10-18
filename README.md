@@ -74,7 +74,10 @@ We used python for visualization. Python was chosen since it has modules like pa
  <li> Pamela Regudo
 </ul>
  
- 
+## Presentation
+
+https://prezi.com/view/VPOYDHNjvoxR0mCcNzDs/
+
 ## Challenges Faced
 
 ### Challenge #1:
