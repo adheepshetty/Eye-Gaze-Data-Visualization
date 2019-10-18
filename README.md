@@ -98,12 +98,12 @@ The challenge we faced when we were trying to find the scanpath over the time is
 ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Challenges/challenge3img.png)
 
 
-## Screenshot of Visualizations
+## Visualizations
 
 ### Graph Visualization
 
-![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/graph-viz.PNG)
+[![IMAGE ALT TEXT](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/graph-viz.PNG)](https://www.youtube.com/watch?v=XvKKMeE6oGM&feature=youtu.be)
 
 ### Tree Visualization
 
-![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/tree-viz.PNG)
+[![IMAGE ALT TEXT](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/tree-viz.PNG)](https://www.youtube.com/watch?v=Pa077pb6uao&feature=youtu.be)
