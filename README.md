@@ -82,7 +82,7 @@ We used python for visualization. Python was chosen since it has modules like pa
  <li> Adheep Shetty
  <li> Saumya Shrivastav
  <li> Sylviana Mahaut
- <li> Kai 
+ <li> Kai Pietrusko
  <li> Pamela Regudo
 </ul>
  
