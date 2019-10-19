@@ -17,7 +17,7 @@ The aim of this assignment is to show participant five's gaze in the form of vis
 <li> Open Run by pressing <i>Windows + R</i> and type in the following command<br>
 <b>chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security</b><br>
 <i>(Make sure you are using Google Chrome as browser. You have to type in the above command because without it would give a websecurity(CORS) issues).</i>
-<li> Drag and drop the <b>graph-visualization.HTML</b> and <b>tree-visualization.HTML</b> on the browser that ran because of the above command.
+<li> Drag and drop the <b>graph-visualization.HTML</b> and <b>tree-visualization.HTML</b> on the browser that ran because of command number 3.
 <li> Enjoy the Visualization
  
 </ol>
