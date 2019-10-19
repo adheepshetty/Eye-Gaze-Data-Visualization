@@ -29,12 +29,10 @@ p5 - Participant 5
 graph - Participant is looking at Graph Visualization.<br>
 tree - Participant is looking at Tree Visualization.<br>
 EVD - Data of Events that is done by the participant.<br>
-
 FXD - Fixation data shows for how long participant's eyes were fixated.<br>
-
 GZD - Gives information about participant's gaze like his/her pupil size distance from screen.<br>
 
-#### Files:
+<b>Files:</b>
 <ul>
   <li>p5.graphEVD
    
@@ -57,8 +55,8 @@ GZD - Gives information about participant's gaze like his/her pupil size distanc
 
 ## Output Files
 
-Output files are HTML pages showing the visualization of gaze of participant according to time interval.
-## Files
+Output files are HTML pages showing the visualization of gaze of participant according to time interval.<br>
+<b>Files:</b>
 
 <ul>
  <li>graph-visualization.HTML
