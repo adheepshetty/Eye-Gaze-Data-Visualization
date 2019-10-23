@@ -121,4 +121,4 @@ The challenge we faced when we were trying to find the scanpath over the time is
 
 ### Tree Visualization
 
-[![IMAGE ALT TEXT](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/treevizvideo.PNG)](https://www.youtube.com/watch?v=Pa077pb6uao&feature=youtu.be)
+[![IMAGE ALT TEXT](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/treevizvideo.PNG)](https://youtu.be/wgsOxnlAQkg)
